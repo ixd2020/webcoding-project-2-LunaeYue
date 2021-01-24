@@ -1,0 +1,83 @@
+/* CSS files add styling rules to your content */
+
+body {
+font-family: 'Open Sans', sans-serif;
+  margin: 0;
+}
+
+
+.appleicon{
+  position:absolute;
+  left:17.5%;
+}
+
+div {
+position:relative;
+}
+#nav {
+position:absolute;
+left:50.5%;top:-8%;
+margin-left:-500px; /* negative margin equal to half the width */
+width:1050px;
+list-style:none;
+}
+#nav li {
+float:left;
+}
+#nav a {
+display:block;
+text-align:center;
+width:110px; /* fixed width */
+text-decoration:none; 
+color:#DCDCDC;
+font-size:13px;
+font-family: 'Open Sans', sans-serif;
+}
+
+.searchicon{
+  position:absolute;
+  left:74%;top:28%;
+}
+.bagicon{
+  position:absolute;
+  left:80%;
+}
+
+.navbar{  
+  height:44px;
+  background-color:#383838;
+}
+
+
+.navbar2{
+  height:52px;
+  background-color:#F5F5F5;
+  font-size:13px;
+  text-align:center;
+  font-family: font-family: 'Open Sans', sans-serif;
+}
+
+.get_the{
+    position:absolute;
+    left:32%;top:10%;
+  word-spacing:2px;
+}
+
+.sec1{
+  text-align:center;
+}
+.red_apple{
+  position:relative;
+  margin:28px;
+  right:0.5%;
+}
+.double{
+  position:relative;
+  margin:-10px;
+  font-size:54px;
+  font-family: 'Roboto', sans-serif;
+}
+.shop{
+  font-size:20px;
+  color:#0066CC;
+}
