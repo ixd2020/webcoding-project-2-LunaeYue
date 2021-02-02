@@ -1,13 +1,15 @@
 /* CSS files add styling rules to your content */
 
+
 body {
 font-family: 'Open Sans', sans-serif;
   margin: 0;
+  padding:0;
 }
 
 
 .appleicon{
-  position:absolute;
+  position:relative;
   left:17.5%;
 }
 
@@ -18,7 +20,6 @@ position:relative;
 position:absolute;
 left:50.5%;top:-8%;
 margin-left:-500px; /* negative margin equal to half the width */
-width:1050px;
 list-style:none;
 }
 #nav li {
@@ -68,16 +69,28 @@ font-family: 'Open Sans', sans-serif;
 }
 .red_apple{
   position:relative;
-  margin:28px;
+  margin-top:28px;
+  margin-bottom:8px;
   right:0.5%;
 }
 .double{
   position:relative;
-  margin:-10px;
+  margin-top:10px;
   font-size:54px;
   font-family: 'Roboto', sans-serif;
 }
 .shop{
   font-size:20px;
+  margin-top:-25px;
   color:#0066CC;
 }
+
+.longimg{
+  margin_bottom:30px;
+}
+.iphone12div{
+  margin_top:20px;
+  }
+}
+
+
