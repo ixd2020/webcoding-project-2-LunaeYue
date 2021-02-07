@@ -33,6 +33,7 @@ text-decoration:none;
 color:#DCDCDC;
 font-size:13px;
 font-family: 'Open Sans', sans-serif;
+
 }
 
 .searchicon{
@@ -47,15 +48,24 @@ font-family: 'Open Sans', sans-serif;
 .navbar{  
   height:44px;
   background-color:#383838;
+  
 }
 
-
+.fix{
+  overflow: hidden;
+  position:fixed;
+  top: 0;
+  z-index:1;
+  width:100%;
+  z-index:100;
+}
 .navbar2{
   height:52px;
   background-color:#F5F5F5;
   font-size:13px;
   text-align:center;
   font-family: font-family: 'Open Sans', sans-serif;
+  margin-top:45px;
 }
 
 .get_the{
@@ -86,11 +96,158 @@ font-family: 'Open Sans', sans-serif;
 }
 
 .longimg{
-  margin_bottom:30px;
+  margin-bottom:30px;
 }
-.iphone12div{
-  margin_top:20px;
-  }
+
+.iphone12{
+  position: relative;
+  text-align: center;
+}
+.iphone12t {
+  position: absolute;
+  top: 8%;
+  left: 42%;
+  font-size:55px;
+  font-family: 'Roboto', sans-serif;
+}
+.blast{
+  font-size:25px;
+  margin-top:7px;
+}
+.learn{
+  font-size:20px;
+  color:#0066CC;
 }
 
 
+.iphone12w{
+  position: relative;
+  text-align: center;
+  margin-top:10px;
+}
+.iphone12tw {
+  position: absolute;
+  top: 8%;
+  left: 39%;
+  font-size:55px;
+  font-family: 'Roboto', sans-serif;
+  color:white;
+}
+.blastw{
+  font-size:25px;
+  margin-top:7px;
+  color:white;
+  font-family: 'Roboto', sans-serif;
+}
+
+.airpod{
+  position:relative;
+  margin-top:15px;
+  width:100%;
+  height:600px;
+}
+
+.airpodt {
+  position: absolute;
+  top: 8%;
+  left: 10%;
+  font-size:37px;
+  font-family: 'Roboto', sans-serif;
+  width:500px;
+}
+.buy{
+  position:absolute;
+  font-size:18px;
+  color:#0066CC;
+  margin-top:-30px;
+  left:43%;
+}
+
+.watcht {
+  position: absolute;
+  left: 51%;
+  font-size:37px;
+  font-family: 'Roboto', sans-serif;
+  width:400px;
+  color:white;
+  background-color:black;
+  width:700px;
+  height:613.5px;
+  z-index:1;
+  top:-0.1%;
+}
+
+.watchimg{
+  position:absolute;
+  left:35%;
+  top:35%;
+  z-index:2;
+}
+
+.watcht1{
+  font-size:30px;
+  position:relative;
+  left:42%;
+  width:400px;
+}
+.watcht2{
+  position:relative;
+  font-size:15px;
+  color:#C00000;
+  letter-spacing:2px;
+  left:47.5%;
+  width:300px;
+  margin-top:-28px;
+}
+.watcht3{
+  font-size:22px;
+  width:400px;
+  position:relative;
+  left:30%;
+  margin-top:-8px;
+}
+.appleicon2{
+  margin-bottom:-29px;
+}
+
+.learn2{
+  font-size:20px;
+  color:#0066CC;
+  position:relative;
+  left:273px;
+  width:300px;
+}
+
+/* -------------------------------- */
+
+
+.ipad{
+  position:relative;
+  margin-top:25px;
+  width:100%;
+  height:600px;
+}
+
+.ipadt {
+  position: absolute;
+  top: 8%;
+  left: 10%;
+  font-size:37px;
+  font-family: 'Roboto', sans-serif;
+  width:500px;
+}
+
+.powerful{
+  font-size:22px;
+  width:400px;
+  position:relative;
+  left:20%;
+  margin-top:-35px;
+}
+.learn3{
+  font-size:20px;
+  color:#0066CC;
+  position:relative;
+  left:150px;
+  width:300px;
+}
