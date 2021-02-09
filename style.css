@@ -361,12 +361,15 @@ footer{
   position:relative;
   left:18%;
   width:950px;
-  top:20px;
+  top:18px;
   height:500px;
 }
 
 dl dt { margin-bottom: 10px; }
-
+.list1{
+  position:relative;
+  bottom:16px;
+}
 .list2{
 position:relative;
 left:20%;

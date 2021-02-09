@@ -1,12 +1,11 @@
 .navbar3{
   height:52px;
-  background-color:	#101010;
+  background-color:	#141414;
   font-size:13px;
   text-align:center;
   font-family: font-family: 'Open Sans', sans-serif;
   margin-top:40px;
   height:120px;
-  
 }
 .maci1{
   position:absolute;
@@ -146,8 +145,8 @@
 /* ------------------------------------------- */
 .maci7{
   position:absolute;
-  left:13%;
-  top:3%;
+  left:14%;
+  top:9%;
 }
 .mach7{
   width:200px;
@@ -172,6 +171,95 @@
   margin-top:-4%;
 }
 /* ---------------------------------------------- */
+.maci8{
+  position:absolute;
+  left:11%;
+  bottom:65%;
+  z-index:2;
+}
+.mach8{
+  width:200px;
+  height:180px;
+  position:relative;
+  left:61%;
+  bottom:1380px;
+  
+}
+.it8{
+  color:white;
+  position:relative;
+  top:34%;
+  right:21%;
+  font-size:11px;
+}
+/* ---------------------------------------------- */
+.maci9{
+  position:absolute;
+  left:11%;
+  bottom:65%;
+  z-index:2;
+}
+.mach9{
+  width:200px;
+  height:180px;
+  position:relative;
+  left:68%;
+  bottom:1570px;
+  
+}
+.it9{
+  color:white;
+  position:relative;
+  top:34%;
+  right:21%;
+  font-size:11px;
+}
+/* ---------------------------------------------- */
+.maci10{
+  position:absolute;
+  left:11%;
+  bottom:67%;
+  z-index:2;
+}
+.mach10{
+  width:200px;
+  height:180px;
+  position:relative;
+  left:75.5%;
+  bottom:1770px;
+  
+}
+.it10{
+  color:white;
+  position:relative;
+  top:38%;
+  right:30%;
+  font-size:11px;
+}
+/* ---------------------------------------------- */
+.maci11{
+  position:absolute;
+  left:10%;
+  bottom:67%;
+  z-index:2;
+}
+.mach11{
+  width:200px;
+  height:180px;
+  position:relative;
+  left:81%;
+  bottom:1960px;
+  
+}
+.it111{
+  color:white;
+  position:relative;
+  top:38%;
+  right:30%;
+  font-size:11px;
+}
+
+/* ---------------------------------------------------------- */
 
 .background{
   background-color:black;
@@ -393,7 +481,7 @@ button{
 
 .whitebox3{
   background-color:#F0F0F0;
-  height:670px;
+  height:700px;
   width:670px;
   margin:70px;
   margin-top:30px;
@@ -409,7 +497,7 @@ button{
 
 .whitebox4{
   background-color:#F0F0F0;
-  height:670px;
+  height:700px;
   width:670px;
   margin:70px;
   margin-top:30px;
@@ -419,24 +507,293 @@ button{
   overflow: hidden;
   position:relative;
   margin-right:0px;
-  bottom:100%;
-  left:46%;
+  bottom:97.3%;
+  left:46.5%;
   text-align:center;
+  font-size:45px;
 }
 
 .whitebox34{
   white-space: normal;
   overflow: hidden;
   position:relative;
-  height:700px;
+  height:750px;
 }
 .button3{
   position:relative;
-  bottom:;
   height:40px;
   width:80px;
   font-size:17px;
 }
 .wb3img{
-  margin-top:170px;
+  margin-top:200px;
+}
+.wb4t{
+  font-size:17px;
+  line-height:1.5;
+}
+.wb4img{
+  margin-top:30px;
+}
+.find{
+  font-size:17px;
+  margin-top:20px;
+  color:#0066CC;
+}
+/* ----------------------------------------------------- */
+.a3icon{
+  position:relative;
+  width:65%;
+  left:17.5%;
+  top:75px;
+}
+.a3iconsec{
+  white-space: normal;
+  overflow: hidden;
+  height:300px;
+}
+.a3icont1{
+  text-align:center;
+  width:350px;
+  position:relative;
+  top:20%;
+  left:9%;
+}
+.free{
+  font-size:20px;
+}
+.a3icont2{
+  text-align:center;
+  width:350px;
+  position:relative;
+  bottom:16%;
+  left:38.5%;
+}
+.a3icont3{
+  text-align:center;
+  width:350px;
+  position:relative;
+  bottom:53%;
+  left:67%;
+}
+.what{
+font-size:60px;
+text-align:center;
+  margin-top: 90px;
+}
+.rainbowpic{
+  margin-left:80px;
+  margin-top:10px;
+  position:relative;
+  bottom:20px;
+  white-space: normal;
+  overflow: hidden;
+}
+.onrainbowicon{
+  position:relative;
+  left:45%;
+  top:370px;
+  
+  z-index:1;
+}
+.rainbow{
+  white-space: normal;
+  overflow: hidden;
+  position:relative;
+  bottom:150px;
+}
+.doing{
+  color:white;
+  font-size:48px;
+  position:relative;
+  left:33%;
+  top:350px;
+    z-index:1;  
+}
+.update{
+  position:relative;
+  color:white;
+  left:43%;
+  top:340px;
+  z-index:1;
+}
+.rainbowt{
+  position:relative;
+  top:50px;
+}
+/* ---------------------------------------------------------- */
+.whitebox5{
+  background-color:	#F8F8F8;
+  height:700px;
+  width:670px;
+  margin:70px;
+  margin-top:30px;
+  margin-bottom:30px;
+  font-size:50px;
+  white-space: normal;
+  overflow: hidden;
+  position:relative;
+  margin-right:0px;
+  text-align:center;
+  font-size:45px;
+}
+
+.whitebox6{
+  background-color:	#F8F8F8;
+  height:700px;
+  width:670px;
+  margin:70px;
+  margin-top:30px;
+  margin-bottom:30px;
+  font-size:50px;
+  white-space: normal;
+  overflow: hidden;
+  position:relative;
+  margin-right:0px;
+  bottom:97.3%;
+  left:46.5%;
+  text-align:center;
+  font-size:45px;
+}
+
+.whitebox56{
+  white-space: normal;
+  overflow: hidden;
+  position:relative;
+  height:750px;
+  margin-top:-170px;
+}
+.wb5img{
+  margin-top:110px;
+}
+.wb6img{
+  margin-top:135px;
+}
+/* --------------------------------------------- */
+.whitebox7{
+  background-color:#fbfbfd;
+  height:1150px;
+  margin:70px;
+  margin-top:30px;
+  margin-bottom:30px; 
+  white-space: normal;
+  overflow: hidden;
+  position:relative;
+}
+.built{
+  text-align:center;
+  font-size:45px;
+  margin-top:80px;
+  margin-bottom:0px;
+}
+.powerful1{
+  text-align:center;
+  font-size:17px;
+  margin-top:-10px;
+  line-height:1.8;
+}
+.longicon{
+  position:relative;
+  left:20%;
+  width:65%;
+  margin-top:30px;
+}
+.longicont{
+  font-size:17px;
+  text-align:center;
+  margin-top:0px;
+  word-spacing:20px;
+  margin-left:40px; 
+}
+.line{
+  text-align:center;
+  margin-left:30px;
+  margin-top:-15px;
+  color:grey;
+}
+.safari{
+  text-align:center;
+  line-height:1.8;
+  margin-top:40px;
+}
+.learna{
+  color:#0066CC;
+  text-align:center;
+}
+.house{
+  width:50%;
+  margin-left:350px;
+}
+.longicont2{
+  font-size:17px;
+  text-align:center;
+  margin-top:0px;
+  word-spacing:22px;
+  margin-left:50px; 
+}
+.longicon2{
+  position:relative;
+  left:19%;
+  width:65%;
+  margin-top:30px;
+}
+.whitebox8{
+  background-color:#fbfbfd;
+  height:1300px;
+  margin:70px;
+  margin-top:30px;
+  margin-bottom:30px; 
+  white-space: normal;
+  overflow: hidden;
+  position:relative;
+}
+.appstore{
+  margin-left:315px;
+  z-index:2;
+  width:5%;
+  top:400px;
+}
+.the{
+  margin-left:400px;
+  font-size:17px;
+  margin-top:-60px;
+}
+/* ----------------------------------------------- */
+.getmac{
+  margin-top:150px;
+  text-align:center;
+  font-size:60px;
+}
+.whitebox9{
+  background-color:#fbfbfd;
+  height:1300px;
+  margin:70px;
+  margin-top:30px;
+  margin-bottom:30px; 
+  white-space: normal;
+  overflow: hidden;
+  position:relative;
+}
+.bigicon{
+  margin-top:180px;
+  margin-left:210px;
+}
+.oneicon{
+  margin-left:200px;
+  position:relative;
+  bottom:190px;
+}
+.bundlemac{
+  margin-left:600px;
+  font-size:26px;
+  text-align:center;
+  position:relative;
+  bottom:200px;
+}
+.tryit{
+  margin-left:870px;
+  position:relative;
+  bottom:200px;
+  color:#0066CC;
+  font-size:23px;
 }
