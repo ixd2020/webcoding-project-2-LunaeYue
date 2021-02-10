@@ -1,0 +1,207 @@
+.hero-image {
+  background-image: url("https://cdn.glitch.com/83b5ab21-d376-43d1-bd01-4be7a99c8cd4%2FqmyrFO1KxegDC.jpg?v=1611197862688");
+  height: 75%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  
+}
+body, html {
+    height: 100%;
+}
+.hero-text{
+  text-align:center;
+  font-size:32px;
+  position: absolute;
+  top: 16%;
+  left: 32%;
+  color:	#383838;
+}
+/* ------------------------------- */
+.search {
+  width: 100%;
+  position: relative;
+  display: flex;
+}
+
+.searchTerm {
+  width: 100%;
+  padding: 5px;
+  height: 20px;
+  outline: none;
+  color: black;
+}
+
+.wrap{
+  width: 40%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+/* -------------------------------------------- */
+.slongimg{
+ width:65%;
+  margin-left:280px;
+  margin-top:70px;
+}
+.longimgt{
+  font-size:20px;
+  text-align:center;
+  margin-top:-2px;
+}
+.cardbox{
+  width:800px;
+  height:250px;
+  left:23%;
+  position:relative;
+}
+.cardt{
+  font-size:40px;
+  margin-top:30px;
+}
+.cardt2{
+  font-size:20px;
+}
+.cardimg{
+  position:relative;
+  bottom:230px;
+  left:60%;
+  width:40%;
+}
+/* -------------------------------------- */
+.hero-image2 {
+  background-image: url("https://cdn.glitch.com/83b5ab21-d376-43d1-bd01-4be7a99c8cd4%2FzUgIcXD4DLfHn.jpg?v=1611198244429");
+  height: 55%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  
+}
+.hero-text2{
+  font-size:28px;
+  position: absolute;
+  top: 19%;
+  left: 18%;
+  color:white;
+}
+.choose{
+  font-size:18px;
+}
+/* ---------------------------------------------- */
+.carebox{
+  width:850px;
+  height:250px;
+  left:21%;
+  position:relative;
+  margin-top:130px;
+}
+.caret{
+  font-size:30px;
+  margin-top:30px;
+  margin-left:45%;
+}
+.caret2{
+  font-size:17px;
+}
+.careimg{
+  position:relative;
+  bottom:230px;
+  width:50%;
+}
+/* ------------------------------------------------ */
+.wicon{
+  position:relative;
+  left:43%;
+  width:15%;
+}
+.wt{
+  text-align:center;
+  
+}
+.wa{
+  font-size:40px;
+}
+.beware{
+  text-align:center;
+  font-size:18px;
+  line-height:1.7;
+}
+.scamimg{
+  position:relative;
+  bottom:160px;
+  width:30%;
+  left:10%;
+}
+.scambox{
+  width:850px;
+  height:160px;
+  left:21%;
+  position:relative;
+  margin-top:130px;
+}
+.op{
+  color:#0066CC;
+}
+.ser{
+  font-size:25px;
+}
+.serbox{
+  position:relative;
+  left:25%;
+  width:500px;
+}
+/* ----------------------------------------- */
+
+
+
+.footer3{
+  background-color:#F5F5F5;
+  height:340px;
+}
+.dss{
+  color:#808080;
+  font-size:12px;
+  position:relative;
+  left:18%;
+  width:950px;
+  top:18px;
+  height:100px;
+}
+
+dl dt { margin-bottom: 10px; }
+.list1{
+  position:relative;
+  bottom:16px;
+}
+.list2s{
+position:relative;
+left:27%;
+top:-210px;
+  height:200px;
+}
+.list4s{
+  position:relative;
+  top:-125px;
+  height:70px;
+  width:200px;
+  left:32%;
+}
+
+.list5{
+  position:relative;
+  top:-205px;
+  height:70px;
+  width:200px;
+  left:58%;
+}
+.ds2s{
+  position:relative;
+  color:#808080;
+  font-size:12px;
+  width:1000px;
+  height:70px;
+  bottom:200px;
+}
