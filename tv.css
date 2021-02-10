@@ -1,0 +1,169 @@
+.navbar4{
+  height:52px;
+  background-color:		#101010;
+  font-size:13px;
+  text-align:center;
+  font-family: font-family: 'Open Sans', sans-serif;
+  margin-top:40px;
+  height:120px;
+}
+.longbar{
+  width:40%;
+  margin-top:20px;
+}
+.navbar5{
+  height:52px;
+  background-color:#1d1d1f;
+  font-size:13px;
+  text-align:center;
+  font-family: font-family: 'Open Sans', sans-serif;
+  margin-top:-10px;
+}
+.getone{
+    position:absolute;
+    left:32%;top:10%;
+  word-spacing:2px;
+  color:white;
+}
+.show{
+  width:100%;
+  
+}
+.bigtext{
+  margin-top:50px;
+  text-align:center;
+  margin-bottom:10px;
+}
+h7{
+  font-size:25px;
+}
+.all{
+  font-size:80px;
+}
+.learntv{
+  font-size:20px;
+  color:#0066CC;
+}
+
+.hero-image3 {
+  background-image: url("https://cdn.glitch.com/83b5ab21-d376-43d1-bd01-4be7a99c8cd4%2Fappletv_arcade_tile_wide__ctzdx1vfseye_large.jpg?v=1612984778757");
+  height: 65%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  
+}
+.choose1{
+  text-align:center;
+  margin-left:-60px;
+}
+.arc1{
+  margin-left:50px;
+}
+.all2{
+  font-size:60px;
+}
+
+/* ---------------------------------------------------------- */
+.whitebox5a{
+  background-color:	#F8F8F8;
+  height:700px;
+  width:670px;
+  margin:70px;
+  margin-top:30px;
+  margin-bottom:30px;
+  font-size:50px;
+  white-space: normal;
+  overflow: hidden;
+  position:relative;
+  margin-right:0px;
+  text-align:center;
+  font-size:45px;
+}
+
+.whitebox6a{
+  background-color:	#F8F8F8;
+  height:700px;
+  width:670px;
+  margin:70px;
+  margin-top:30px;
+  margin-bottom:30px;
+  font-size:50px;
+  white-space: normal;
+  overflow: hidden;
+  position:relative;
+  margin-right:0px;
+  bottom:97.3%;
+  left:46.5%;
+  text-align:center;
+  font-size:45px;
+}
+
+.whitebox56a{
+  white-space: normal;
+  overflow: hidden;
+  position:relative;
+  height:750px;
+}
+.wb5imga{
+  margin-top:110px;
+}
+.wb6imga{
+  margin-top:60px;
+}
+.dis{
+  font-size:20px;
+  text-align:center;
+}
+/* ---------------------------------------------- */
+
+
+.footer5{
+  background-color:#F5F5F5;
+  height:640px;
+}
+.ds{
+  color:#808080;
+  font-size:12px;
+  position:relative;
+  left:18%;
+  width:950px;
+  top:18px;
+  height:500px;
+}
+
+dl dt { margin-bottom: 10px; }
+.list1{
+  position:relative;
+  bottom:16px;
+}
+.list2{
+position:relative;
+left:20%;
+top:-287px;
+  height:200px;
+}
+.list3{
+  position:relative;
+  left:40%;
+  top:-499px;
+  height:200px;
+  width:200px;
+}
+.list4{
+  position:relative;
+  top:-710px;
+  height:200px;
+  width:200px;
+  left:60%;
+}
+.ds2{
+  position:relative;
+  color:#808080;
+  font-size:12px;
+  left:18%;
+  width:1000px;
+  top:20px;
+  height:20px;
+}
