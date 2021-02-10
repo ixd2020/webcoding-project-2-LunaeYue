@@ -406,3 +406,145 @@ top:-287px;
   top:20px;
   height:20px;
 }
+
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------------ */
+
+@media only screen and (max-width: 600px) {
+
+  .red_apple{
+    width:8%;
+  }
+.double{
+    font-size:20px;
+  }
+  .shop{
+    padding-top:15px;  
+    font-size:15px;
+  }
+  .get_the{
+    margin-left:-130px;
+    font-size:11px;
+  }
+  #nav{
+    display:none;
+  } 
+  .searchicon{
+    display:none;
+  }
+  .bagicon{
+    display:none;
+  }
+  .appleicon{
+    padding-left:150px;
+  }
+  .iphone12t,.blast,.learn{
+    font-size:10px;
+  }
+  .footer1{
+    display:none;
+  }
+  .iphone12tw,.blastw{
+    font-size:10px;
+  }
+  
+/*   ----------------------------------------- */
+
+
+  .airpodimg{
+  display:none;
+    
+  }
+
+  .airpodtext,.airpodt{
+    display:none;
+}
+.buy{
+  display:none;
+}
+
+  .watcht {
+  display:none;
+
+}
+
+.watchimg{
+  display:none;
+}
+
+.watcht1{
+  display:none;
+}
+.watcht2{
+  display:none;
+}
+.watcht3{
+  display:none;
+}
+.appleicon2{
+  display:none;
+}
+
+.learn2{
+  fdisplay:none;
+}
+
+/* -------------------------------- */
+
+
+.ipad{
+  display:none;
+}
+
+.ipadt {
+  display:none;
+}
+
+.powerful{
+  display:none;
+}
+.learn3{
+  display:none;
+}
+.earphone{
+  display:none;
+}
+.earphoneimg{
+  display:none;
+ 
+}
+.ap{
+ display:none;
+}
+.one{
+  display:none;
+}
+.app{
+  display:none;
+}
+.onet{
+  display:none;
+}
+
+/* -------------------------------- */
+
+
+}
+
+/* ------------------------------------------------- */
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

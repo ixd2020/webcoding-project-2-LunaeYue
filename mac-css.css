@@ -1001,8 +1001,58 @@ top:-287px;
   top:420px;
   height:20px;
 }
-
-
-
+/* ---------------------------------------------- */
+/* ------------------------------------------------ */
+/* ------------------------------------------ */
+@media only screen and (max-width: 600px) {
+  .navbar3{
+    display:none;
+  }
+  .welcomet{
+    font-size:40px;
+  }
+  .learnmn1{
+    font-size:20px;
+  }
+  
+  .longicon,.longicont,.longicon2,.longicont2,.appstore,.line{
+    display:none;
+  }
+  .footer{
+    display:none;
+  }
+  .macimg1,.macimg2,.macimg3{
+    width:100%;
+    margin-left:-110px;
+  }
+  .macbb1,.macbb2,.macbb3{
+   display:none;
+  }
+  .which,.double2{
+    font-size:30px;
+  }
+  .compare{
+    display:none;
+  }
+  .a3mact2,.a3mact3{
+    display:none;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+}
 
 
